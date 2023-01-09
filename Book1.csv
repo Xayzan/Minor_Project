@@ -1,0 +1,291 @@
+﻿Timestamp,Which line(s) of DMRC Network you use ?,Which line of DMRC Network you use the most ?,How important are platform screen doors for safety?,How comfortable are you in the overall closing and opening of doors ?( getting stuck while they are closing for example.),Do you find the emergency push to talk button needful?(for emergency services),How important presence of CCTV surveillance ? (in terms of safety),How useful do you find door indicator system ?(blinking light in newer metros indicating the door is opening and closing of door),How comfortable are you with the gap between platform and train?,Are you satisfied with the seating capacity/arrangement?,Do you feel metro should have seats like on a bus?,Are you satisfied with the metro frequency?,How adequate is the air conditioning and ventilation systems according to your experience?,"How comfortable do you find your journey?(experiencing extreme braking, jerks etc)",Does it matter having tinted windows for sunshade?,A new system is being implemented (currently on magenta line) where an estimated occupancy of every coach will be displayed on the platform itself before the metro arrives. This is for people to know which coaches have space. Should this be the norm?,How likely are you to use newer forms of tickets like mobile based qr codes or nfc based tickets,"How relevant do you find the announcements in the metro?(are they audible , relevant)",Are you satisfied with lighting?,"Do you find the infographics relevant ? (eg. digital screens, route maps etc.)",How sufficient the damping in metro currently?(to stop unwanted vibrations and improve comfort)
+2022/12/07 9:21:08 PM GMT+5:30,Red Line;Violet Line;Pink Line,Violet Line,5,5,3,3,3,4,2,5,1,4,3,5,5,5,5,5,4,2
+2022/12/07 9:21:24 PM GMT+5:30,Blue Line,Blue Line,5,3,3,3,4,5,5,5,4,4,4,5,5,5,4,4,4,4
+2022/12/07 9:23:47 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Magenta Line,5,4,5,5,5,5,2,1,5,3,4,1,5,5,3,5,3,5
+2022/12/07 9:27:40 PM GMT+5:30,Red Line;Pink Line,Pink Line,5,3,4,5,4,3,3,4,3,4,4,5,5,4,2,4,4,3
+2022/12/07 9:36:51 PM GMT+5:30,Yellow Line,Yellow Line,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+2022/12/07 9:40:15 PM GMT+5:30,Yellow Line;Blue Line;Violet Line;Pink Line;Magenta Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),5,5,5,5,5,5,4,4,5,4,4,4,4,4,5,5,5,5
+2022/12/07 9:40:17 PM GMT+5:30,Yellow Line;Blue Line;Violet Line,Blue Line,5,5,5,5,5,5,4,1,5,5,5,5,5,5,5,5,5,5
+2022/12/07 9:59:49 PM GMT+5:30,Yellow Line;Blue Line;Magenta Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Magenta Line,5,4,4,4,4,5,5,5,5,4,5,5,5,4,5,5,5,4
+2022/12/07 10:16:23 PM GMT+5:30,Blue Line;Magenta Line,Magenta Line,5,5,3,5,5,1,5,1,5,5,5,5,5,5,5,5,5,5
+2022/12/07 10:33:34 PM GMT+5:30,Red Line;Blue Line;Violet Line,Blue Line,5,5,2,5,1,4,5,,1,4,3,4,5,5,3,5,5,3
+2022/12/08 7:29:32 AM GMT+5:30,Red Line;Yellow Line;Blue Line,Red Line,4,2,5,5,4,5,2,3,2,4,2,1,4,5,4,4,4,3
+2022/12/08 8:39:27 AM GMT+5:30,Red Line;Yellow Line;Blue Line;Violet Line;Pink Line,Blue Line,5,5,1,5,5,5,5,1,4,4,4,5,5,5,5,5,5,4
+2022/12/08 8:57:49 AM GMT+5:30,Blue Line,Magenta Line,4,5,1,2,5,5,1,1,5,5,4,5,5,5,5,5,5,5
+2022/12/08 11:00:41 AM GMT+5:30,Red Line;Blue Line;Pink Line;Orange Line (Airport Express),Blue Line,5,4,2,4,1,5,5,2,4,5,3,1,4,3,1,5,5,4
+2022/12/08 7:25:30 PM GMT+5:30,Blue Line,Aqua Line (Noida - GrNoida Corridor of NMRC),5,5,4,4,4,4,3,2,4,4,4,4,5,5,5,5,5,4
+2022/12/08 9:53:10 PM GMT+5:30,Yellow Line;Magenta Line,Magenta Line,4,4,3,4,5,5,3,3,4,4,5,3,3,5,4,4,4,5
+2022/12/11 7:32:56 PM GMT+5:30,Red Line,Pink Line,5,5,4,4,4,4,4,4,5,5,4,5,4,5,5,5,5,4
+2023/01/03 1:56:43 PM GMT+5:30,Red Line;Pink Line,Pink Line,5,3,4,4,4,3,4,3,4,4,3,3,5,4,2,3,4,4
+2023/01/03 2:41:14 PM GMT+5:30,Red Line;Blue Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,5,4,3,3,3,3,4,3,3,3,3,5,5,3,2,3,3,4
+2023/01/03 2:43:33 PM GMT+5:30,Blue Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),5,4,4,4,5,4,4,3,1,3,4,5,5,2,5,4,5,3
+2023/01/03 4:45:21 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),5,3,5,5,5,2,5,3,3,4,4,5,4,4,4,5,5,4
+2023/01/05 9:14:38 PM GMT+5:30,Red Line;Blue Line;Pink Line,Blue Line,5,5,4,5,3,2,4,3,4,5,4,5,4,3,3,4,4,5
+2023/01/05 9:16:47 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),5,4,3,5,3,4,2,1,5,5,5,4,3,1,2,4,4,5
+2023/01/05 9:19:37 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line,Red Line,5,2,2,4,3,3,3,2,4,4,5,3,1,1,3,4,4,4
+2023/01/05 9:24:14 PM GMT+5:30,Green Line;Grey Line,Green Line,4,2,2,4,2,1,5,4,2,5,5,3,4,2,3,4,3,5
+2023/01/05 9:24:41 PM GMT+5:30,Red Line;Green Line,Green Line,5,4,4,4,3,3,4,3,3,4,4,4,4,2,2,3,3,3
+2023/01/05 9:29:13 PM GMT+5:30,Orange Line (Airport Express),Magenta Line,5,5,4,5,5,5,5,5,2,4,5,4,5,4,4,4,5,4
+2023/01/05 9:29:25 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Magenta Line;Orange Line (Airport Express),Blue Line,5,3,1,4,4,2,3,1,4,5,5,3,2,1,2,4,3,5
+2023/01/05 9:32:42 PM GMT+5:30,Yellow Line;Blue Line;Green Line;Pink Line;Orange Line (Airport Express),Orange Line (Airport Express),5,4,1,2,3,2,3,2,3,5,5,3,3,2,3,3,4,5
+2023/01/05 9:34:13 PM GMT+5:30,Violet Line,Violet Line,4,5,4,5,4,4,4,4,4,4,3,5,5,5,5,5,5,4
+2023/01/05 9:36:39 PM GMT+5:30,Red Line;Yellow Line;Pink Line;Grey Line,Blue Line,5,3,2,5,3,2,3,4,4,5,4,3,2,2,3,4,4,5
+2023/01/05 9:36:48 PM GMT+5:30,Red Line;Yellow Line;Pink Line,Pink Line,5,3,4,5,5,5,4,1,3,4,3,3,5,5,2,5,3,3
+2023/01/05 9:39:55 PM GMT+5:30,Red Line,Pink Line,4,3,4,5,3,4,4,2,4,5,3,3,5,3,3,5,4,4
+2023/01/05 9:40:28 PM GMT+5:30,Red Line;Blue Line;Violet Line,Pink Line,3,2,4,3,4,3,3,4,5,3,2,5,3,3,2,4,4,3
+2023/01/05 9:43:28 PM GMT+5:30,Violet Line;Pink Line;Magenta Line,Magenta Line,5,4,3,3,3,3,4,3,4,5,5,3,4,1,3,3,4,5
+2023/01/05 9:44:43 PM GMT+5:30,Green Line,Green Line,3,3,4,2,4,2,3,3,2,4,5,2,3,3,3,3,2,3
+2023/01/05 9:46:04 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Violet Line;Pink Line,Violet Line,4,4,3,4,2,4,2,1,4,4,3,4,5,4,4,4,3,2
+2023/01/05 9:50:13 PM GMT+5:30,Red Line;Yellow Line;Pink Line,Blue Line,2,3,4,4,4,2,4,4,5,4,5,5,5,5,5,5,5,3
+2023/01/05 9:50:47 PM GMT+5:30,Red Line;Green Line,Green Line,5,4,4,4,2,2,4,4,3,4,4,3,4,3,4,4,3,2
+2023/01/05 9:52:37 PM GMT+5:30,Blue Line,Pink Line,4,5,3,5,5,4,3,2,3,4,3,4,2,3,4,4,4,3
+2023/01/05 9:55:08 PM GMT+5:30,Blue Line,Yellow Line,4,3,2,4,3,5,2,1,4,3,2,4,1,4,5,2,5,4
+2023/01/05 9:56:37 PM GMT+5:30,Yellow Line;Blue Line;Violet Line;Magenta Line,Orange Line (Airport Express),5,4,4,5,5,4,2,4,4,4,1,3,4,4,5,2,5,5
+2023/01/05 10:15:09 PM GMT+5:30,Red Line,Violet Line,4,4,2,4,5,4,3,2,4,5,5,4,5,3,4,4,4,3
+2023/01/05 10:25:01 PM GMT+5:30,Red Line;Blue Line;Pink Line,Pink Line,4,4,3,4,4,4,3,2,4,5,4,4,5,3,4,4,4,3
+2023/01/05 10:26:30 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Green Line;Violet Line;Pink Line;Magenta Line,Pink Line,5,4,4,5,4,4,5,1,4,3,4,1,5,5,3,4,4,2
+2023/01/05 11:29:44 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Pink Line,Pink Line,5,4,3,3,1,2,4,3,5,5,5,3,5,2,5,5,5,5
+2023/01/05 11:32:11 PM GMT+5:30,Blue Line;Orange Line (Airport Express),Orange Line (Airport Express),4,5,5,4,5,5,3,1,4,4,4,5,5,4,4,4,4,5
+2023/01/05 11:35:27 PM GMT+5:30,Blue Line;Pink Line;Orange Line (Airport Express),Orange Line (Airport Express),3,3,4,5,4,3,3,3,3,3,3,4,3,3,4,3,5,3
+2023/01/06 2:18:46 AM GMT+5:30,Green Line;Violet Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Blue Line,2,4,3,2,3,3,3,1,1,3,3,1,3,2,2,4,4,1
+2023/01/06 2:19:42 AM GMT+5:30,Red Line;Yellow Line;Green Line;Pink Line,Yellow Line,4,4,4,2,3,2,3,2,4,4,2,4,4,2,2,2,3,3
+2023/01/07 5:34:13 PM GMT+5:30,Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Pink Line,5,3,1,2,3,2,4,2,3,3,4,2,4,2,3,2,2,5
+2023/01/07 5:35:41 PM GMT+5:30,Grey Line,Grey Line,5,4,4,3,3,3,4,4,2,3,4,4,4,4,4,4,4,4
+2023/01/07 5:35:48 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC);Gurgaon Rapid Metro (RMGL),Aqua Line (Noida - GrNoida Corridor of NMRC),5,4,3,3,3,4,4,3,4,5,4,2,4,2,4,3,2,4
+2023/01/07 5:37:16 PM GMT+5:30,Orange Line (Airport Express);Grey Line,Grey Line,4,4,4,4,4,4,4,3,3,3,3,3,5,5,4,4,4,4
+2023/01/07 5:38:40 PM GMT+5:30,Yellow Line;Blue Line;Green Line;Violet Line,Yellow Line,4,4,3,4,2,4,3,2,2,5,5,3,3,4,3,3,2,4
+2023/01/08 3:07:38 PM GMT+5:30,Red Line;Blue Line;Violet Line,Blue Line,4,2,2,2,2,4,2,2,1,3,1,4,4,4,2,3,4,2
+2023/01/08 3:09:01 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,4,4,3,3,4,4,4,2,1,4,4,4,4,4,4,4,4,4
+2023/01/08 3:09:21 PM GMT+5:30,Red Line;Blue Line,Blue Line,5,3,2,3,2,1,3,2,4,3,2,1,4,2,2,1,2,2
+2023/01/08 3:10:27 PM GMT+5:30,Pink Line;Magenta Line;Orange Line (Airport Express);Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,5,5,4,4,3,4,4,1,3,4,5,3,4,2,3,4,5,5
+2023/01/08 3:11:07 PM GMT+5:30,Red Line,Red Line,3,3,2,3,2,3,3,4,2,2,2,4,5,5,2,4,4,2
+2023/01/08 3:11:36 PM GMT+5:30,Red Line;Yellow Line;Blue Line,Red Line,5,3,2,4,2,2,4,1,3,5,5,2,4,3,4,3,3,5
+2023/01/08 3:15:14 PM GMT+5:30,Blue Line;Violet Line;Pink Line;Magenta Line,Magenta Line,5,5,4,4,2,5,3,1,4,5,5,3,5,3,5,5,5,5
+2023/01/08 3:17:31 PM GMT+5:30,Violet Line,Violet Line,4,4,4,4,3,3,3,3,4,4,4,4,2,4,4,4,4,4
+2023/01/08 3:18:21 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Pink Line,Red Line,5,2,3,4,1,3,3,1,4,2,2,3,4,1,2,1,1,2
+2023/01/08 3:21:18 PM GMT+5:30,Yellow Line;Blue Line;Green Line;Magenta Line;Gurgaon Rapid Metro (RMGL),Red Line,4,4,3,2,2,3,2,1,3,2,1,2,5,1,2,1,1,2
+2023/01/08 3:22:41 PM GMT+5:30,Red Line;Yellow Line;Blue Line;Pink Line,Pink Line,5,5,4,5,4,3,4,1,4,5,5,3,5,2,5,4,5,4
+2023/01/08 3:29:50 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,5,3,4,4,5,3,2,4,5,5,3,5,4,5,4,5,5
+2023/01/08 3:39:29 PM GMT+5:30,Red Line,Red Line,3,3,3,2,2,2,3,3,2,1,1,4,4,4,2,4,2,2
+2023/01/08 3:40:11 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 3:40:45 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 3:41:23 PM GMT+5:30,Red Line,Red Line,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+2023/01/08 3:42:00 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 3:42:38 PM GMT+5:30,Pink Line,Pink Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 3:43:22 PM GMT+5:30,Pink Line,Pink Line,4,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+2023/01/08 3:49:29 PM GMT+5:30,Blue Line;Violet Line;Pink Line,Blue Line,5,2,2,2,1,2,2,1,3,2,3,2,5,3,2,3,2,3
+2023/01/08 4:05:58 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:05:59 PM GMT+5:30,Yellow Line,Yellow Line,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+2023/01/08 4:09:27 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 4:09:28 PM GMT+5:30,Blue Line,Blue Line,2,3,2,3,2,3,2,4,2,3,2,3,2,3,2,3,2,2
+2023/01/08 5:25:54 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:25:55 PM GMT+5:30,Blue Line;Green Line;Violet Line;Pink Line,Blue Line,5,2,3,4,2,2,3,1,3,3,2,2,4,2,2,2,1,2
+2023/01/08 5:27:38 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:39 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:27:40 PM GMT+5:30,Pink Line;Magenta Line,Pink Line,5,4,4,4,5,4,4,1,3,5,4,3,4,4,4,5,5,4
+2023/01/08 5:45:08 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:09 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:11 PM GMT+5:30,Red Line;Blue Line;Magenta Line,Magenta Line,5,4,4,4,4,5,4,1,4,4,5,3,5,3,4,5,5,5
+2023/01/08 5:45:51 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:52 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:45:53 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:45 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:46 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:46 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:46 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:46:47 PM GMT+5:30,Red Line;Blue Line,Red Line,4,2,2,4,3,3,3,1,4,2,2,3,5,1,2,2,1,2
+2023/01/08 5:47:06 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:47:07 PM GMT+5:30,Blue Line;Green Line,Green Line,5,3,3,4,3,2,3,4,3,3,3,4,5,4,2,3,2,2
+2023/01/08 5:49:30 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:31 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:31 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:31 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:31 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:31 PM GMT+5:30,Grey Line,Grey Line,5,4,4,4,4,2,4,4,3,4,4,4,5,4,4,5,4,4
+2023/01/08 5:49:52 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:49:53 PM GMT+5:30,Aqua Line (Noida - GrNoida Corridor of NMRC),Aqua Line (Noida - GrNoida Corridor of NMRC),4,4,4,4,4,5,4,1,4,5,4,4,5,4,5,4,4,4
+2023/01/08 5:52:59 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:53:00 PM GMT+5:30,Yellow Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Yellow Line,4,2,1,5,2,2,3,3,3,3,3,3,3,2,4,4,4,4
+2023/01/08 5:59:12 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:14 PM GMT+5:30,Yellow Line;Blue Line;Pink Line;Magenta Line;Orange Line (Airport Express),Blue Line,4,2,3,4,3,3,3,2,4,3,2,3,5,2,2,2,2,3
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:36 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:37 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:37 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 5:59:37 PM GMT+5:30,Yellow Line;Pink Line;Aqua Line (Noida - GrNoida Corridor of NMRC),Pink Line,4,4,2,5,5,4,4,3,1,4,4,5,4,4,4,3,4,4
+2023/01/08 6:01:09 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:10 PM GMT+5:30,Orange Line (Airport Express),Orange Line (Airport Express),4,4,4,5,4,5,5,4,1,4,4,5,4,5,4,4,5,4
+2023/01/08 6:01:36 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
+2023/01/08 6:01:37 PM GMT+5:30,Blue Line;Violet Line,Violet Line,5,3,4,4,4,2,3,4,2,3,3,5,5,4,2,3,2,2
